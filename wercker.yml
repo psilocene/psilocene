@@ -5,7 +5,7 @@ build:
       packages: git ssh-client
     - script:
       name: clone theme
-      code: git clone https://github.com/psilocene/cene.git /pipeline/source/themes
+      code: git clone https://github.com/psilocene/cene.git /pipeline/source/themes/cene
     - arjen/hugo-build:
         version: "0.14"
         theme: cene
