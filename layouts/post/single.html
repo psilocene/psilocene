@@ -1,0 +1,17 @@
+{{ template "theme/partials/header.html" . }}
+  <div id="article">
+   <div class="article-title">{{ .Title }}</div>
+    <hr/>
+   <div class="post">
+     {{ .Content }}
+   </div>
+ </div>
+
+
+
+
+{{ template "_internal/disqus.html" . }}
+
+    </ul>
+    </div>
+{{ template "theme/partials/footer.html" }}

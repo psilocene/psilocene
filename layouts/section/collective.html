@@ -1,0 +1,10 @@
+{{ template "theme/partials/header.html" . }}
+  <div id="article">
+      <h1>{{lower .Title}}</h1>
+  <ul class="posts">
+      {{ range .Data.Pages }}
+      <li><span><a href="{{ .Permalink }}">{{ replace (trim (replace (trim .RelPermalink "/") (urlize .Title) "") "/") "/" " / "}} > {{ .Title }}</a>
+      <time class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }}</h4></time></span></span></li>
+      {{ end }}
+  </ul>
+{{ template "theme/partials/footer.html" . }}

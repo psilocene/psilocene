@@ -1,0 +1,11 @@
+baseurl = "http://localhost:1313"
+languageCode = "en-us"
+title = "psilocene"
+theme = "psilocene"
+pluralizeListTitles = false
+[params]
+Description = "a new period in which humanity returns to harmony with itself and nature, stripping away the dogma and hatred within"
+[params.links]
+foundation = "/foundation"
+druglog = "/collective/druglog"
+collective = "/collective"
