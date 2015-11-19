@@ -3,12 +3,11 @@ Categories = []
 Description = ""
 Tags = []
 date = "2015-11-18T17:45:30-07:00"
-title = "druglog"
+title = "Drug Log"
 type = "page"
 
 +++
 
-# Drug Log
 
 A service will be offered to all individuals to log personal drug usage.
 
