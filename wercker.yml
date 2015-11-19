@@ -1,6 +1,8 @@
 box: debian
 build:
   steps:
+  - install-packages:
+      packages: git ssh-client
     - script:
       name: clone theme
       code: git clone https://github.com/psilocene/cene.git /pipeline/source/themes
@@ -10,8 +12,6 @@ build:
         flags:
 deploy:
   steps:
-    - install-packages:
-        packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
         domain: hugo-wercker.ig.nore.me
