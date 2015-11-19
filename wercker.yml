@@ -1,6 +1,9 @@
 box: debian
 build:
   steps:
+    - script:
+      name: clone theme
+      code: git clone https://github.com/psilocene/cene.git /pipeline/source/themes
     - arjen/hugo-build:
         version: "0.14"
         theme: cene
