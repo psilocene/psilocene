@@ -3,16 +3,24 @@ Categories = []
 Description = ""
 Tags = []
 date = "2015-11-18T20:34:14-07:00"
-title = "aligned"
-type = "post"
+title = "Links"
+type = "page"
 
 +++
+### Disclaimer
+The links listed here are recognized as being of interest to the community. The listing of a website, organization, or community does not signify our endorsement of it or its claims.
 
-# Aligned organizations
+#### Use your judgement and do your own research. Fact check and follow sources.
 
-We are interested in collaborating with these organizations or individuals that belong to them. If you know of an organization that would be interested in working together with us, please reach out and we will add it to this list.
+
+### Collaborating
+
+We are interested in collaborating with these organizations/communities or individuals that belong to them. If you know of an organization that would be interested in working together with us, please reach out and we will add it to this list.
 
 [email](mailto:psilocene@tuta.io)
+
+## Information
+See the [Wikis page](../wikis)
 
 ## Research Institutes
 * [Multidisciplinary Association for Psychedelic Studies (MAPS)][MAPS]
@@ -25,6 +33,7 @@ We are interested in collaborating with these organizations or individuals that 
 * [Núcleo de Estudos Interdisciplinares sobre Psicoativos (Brazil)][NEIP]
 * [Beckley Foundation][Beckley]
 * [International Center for Ethnobotanical Education Research and Service][ICEERS]
+* [Gaia Media][Gaia]
 
 ## Drug Policy
 * [Drug Policy Alliance (DPA)][DPA]
@@ -40,11 +49,27 @@ We are interested in collaborating with these organizations or individuals that 
 * [Peyote Way Church]
 * [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)
 
+## Drug Testing
+* [WEDINOS](http://www.wedinos.org/)
+* [Ecstasy Data](https://www.ecstasydata.org/)
+* [Pill Reports](http://www.pillreports.net/)
+* [Energy Control (español)](http://energycontrol.org/)
+* [NEW Net](http://www.safernightlife.org/)
 
-## Other
-* [Psychedelic Society]
-* [Gaia Media][Gaia]
-* [Reality Sandwich]
+## Podcasts
+See the [Podcasts page](../podcasts)
+
+## Communities
+See the [Communities page](../communities)
+
+## Blogs
+See the [Blogs page](../blogs)
+
+
+
+
+
+
 
 
 

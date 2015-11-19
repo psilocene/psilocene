@@ -11,13 +11,7 @@ title = "Psilocene Foundation"
 
 ## Introduction
 
-Psilocene is an organization of like-minded individuals that have realized their true nature and desire to help others do the same. This realization is often achieved with the aid of psychedelic substances or mystical practices.
-
-Once one's true nature is understood or integrated, one becomes more aware than ever of the need to work towards the betterment of humankind, all other life, and our home, Earth.
-
-While many know that psychedelics can make one more inclined towards preserving nature and being loving, perspectives of reality can vary greatly. People that are not familiar with the mystical experience often dismiss people who have had them.
-
-Psilocene aims to be results-based and grounded in evidential, scientific knowledge.
+The Psilocene Foundation is an organization that embodies a growing set of initiatives to act upon psychedelic knowledge to obtain real change in the world and bring the psychedelic community together. We aim to work and think from an evidential, rational perspective. We may all have different ideas about existence, but the psychedelic experience has written "Find the Others" on our minds. Psilocene is a grassroots "Find the Others" campaign that has initiatives to bring psychedelic substances out from the shadows.
 
 ## Organization
 
@@ -50,4 +44,4 @@ A board of directors will be formed of individuals that are recruited for experi
 #### Board of Directors
 Members of the board will have equal voting rights on proposals and motions. Some board members may wish to keep their identity private from the public, and this is believed to be possible to accommodate.
 
-See [aligned organizations and individuals](../aligned)
+See [aligned organizations](../links)

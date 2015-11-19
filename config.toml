@@ -5,9 +5,15 @@ theme = "psilocene"
 disqusShortname = "psilocene"
 pluralizeListTitles = false
 [params]
-Description = "a new period in which humanity returns to harmony with itself and nature, stripping away the dogma and hatred within"
+Description = "a new epoch in which humanity returns to harmony with itself and nature by stripping away the darkness within"
 Analytics = "UA-70341821-1"
 [params.links]
 foundation = "/foundation"
 druglog = "/collective/druglog"
 collective = "/collective"
+[params.resources]
+links = "/links"
+information = "/information"
+podcasts = "/podcasts"
+blogs = "/blogs"
+communities = "/communities"
