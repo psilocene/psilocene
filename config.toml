@@ -1,7 +1,7 @@
 baseurl = "http://psilocene.org"
 languageCode = "en-us"
 title = "psilocene"
-theme = "psilocene"
+theme = "cene"
 disqusShortname = "psilocene"
 pluralizeListTitles = false
 [params]
