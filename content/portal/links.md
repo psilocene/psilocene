@@ -20,7 +20,7 @@ We are interested in collaborating with these organizations/communities or indiv
 [email](mailto:psilocene@tuta.io)
 
 ## Information
-See the [Wikis page](../wikis)
+See the [Information page](../information)
 
 ## Research Institutes
 * [Multidisciplinary Association for Psychedelic Studies (MAPS)][MAPS]

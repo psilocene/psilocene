@@ -1,11 +1,12 @@
-+++
-Categories = []
-Description = ""
-Tags = []
-date = "2015-11-18T23:29:05-07:00"
-title = "Home"
+# Information for GitHub users
 
-+++
+To get started
+* Clone this repo
+* Clone the [psilocene theme](http://github.com/psilocene/cene) to the repo's themes/ folder
+* Install and familiarize yourself with [Hugo](http://gohugo.io/overview/quickstart/)
+  * After you install, you can skip part 2, and go directly to creating content.
+
+Let's talk about your ideas and work on them together. [Create an issue](https://github.com/psilocene/psilocene/issues) and then make a pull request.
 
 # Welcome to Psilocene
 
@@ -49,7 +50,7 @@ Currently, the [Drug Log](collective/druglog) is a project that is in the planni
 
 The Portal is a simple collection of links that can be used to find the most valuable psychedelic resources on the internet. It is a continuing project.  We would love help to collect and organize these links to provide to people that may not know what is out there.
 
-Our goal isn't to collect everything. We want the best that is out there. 
+Our goal isn't to collect everything. We want the best that is out there.
 
 #### Sections
 * Blogs
