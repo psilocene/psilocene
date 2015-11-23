@@ -20,6 +20,7 @@ The podcasts listed here are recognized as being of interest to the community. T
 * [Psychedelic Salon](http://psychedelicsalon.com)
 * [The Entheogenic Experience](http://entheogenic.podomatic.com/)
 * [Tink Tink Club](http://tinktinkclub.com)
+* [The Synchronicity Podcast with Noah Lampert](http://www.mindpodnetwork.com/about-synchronicity/)
 * [Reset with Amber Lyon](http://reset.me/podcast/)
 * [Adventures Through the Mind](http://www.jameswjesso.com/series/attmind-radio/)
 * [Timewheel Podcast](http://timewheel.net/PODCAST)

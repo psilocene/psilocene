@@ -15,7 +15,7 @@ psilo- : word-forming element meaning "stripped, bare," from Greek psilos "bare,
 
 ### psilocene --  a new epoch in which humanity returns to harmony with itself and nature by stripping away the darkness within
 
-A new renaissance is taking place on the global stage. Psychedelics are once again being recognized as important tools to correct humanity from its destructive path. Many people are having mystical experiences and are waking up to the truth, but they often wonder what they can do to make a difference.
+A new renaissance is taking place on the global stage. Psychedelics are once again being recognized as important tools to return humanity to its lost relationship with nature. Many people are having mystical experiences and are waking up to the truth, but they often wonder what they can do to make a difference.
 
 Psilocene is a group of people that have woken up to reality. We want to know each other. We want to work together. For real change, we must work together.
 
