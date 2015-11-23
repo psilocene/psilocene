@@ -37,7 +37,6 @@ The [Psilocene Foundation](http://psilocene.org/foundation) is the parent entity
 Do you have an idea?
 
 * Please get in contact with us: [psilocene@tuta.io](mailto:psilocene@tuta.io)
-* Use the Disqus threads on each page
 * Fork this [repository](http://github.com/psilocene/psilocene) and write up your idea/proposal. Let's work together.
 
 ### Psilocene Collective
