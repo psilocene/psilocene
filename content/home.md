@@ -15,7 +15,7 @@ psilo- : word-forming element meaning "stripped, bare," from Greek psilos "bare,
 
 ### psilocene --  a new epoch in which humanity returns to harmony with itself and nature by stripping away the darkness within
 
-A new renaissance is taking place on the global stage. Psychedelics are once again being recognized as important tools to correct humanity from its destructive path. Many people are having mystical experiences and are waking up to the truth and reality, but wonder about what they can do to make a difference.
+A new renaissance is taking place on the global stage. Psychedelics are once again being recognized as important tools to correct humanity from its destructive path. Many people are having mystical experiences and are waking up to the truth, but they often wonder what they can do to make a difference.
 
 Psilocene is a group of people that have woken up to reality. We want to know each other. We want to work together. For real change, we must work together.
 
@@ -49,7 +49,7 @@ Currently, the [Drug Log](collective/druglog) is a project that is in the planni
 
 The Portal is a simple collection of links that can be used to find the most valuable psychedelic resources on the internet. It is a continuing project.  We would love help to collect and organize these links to provide to people that may not know what is out there.
 
-Our goal isn't to collect everything. We want the best that is out there. 
+Our goal isn't to collect everything. We want the best that is out there.
 
 #### Sections
 * Blogs
