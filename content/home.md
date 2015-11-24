@@ -38,6 +38,18 @@ Do you have an idea?
 * Please get in contact with us: [psilocene@tuta.io](mailto:psilocene@tuta.io)
 * Fork this [repository](http://github.com/psilocene/psilocene) and write up your idea/proposal. Let's work together.
 
+### Psilocene Church
+
+The Psilocene Church is an ambitious endeavor to create the framework for a religion that allows for meaningful religious practice that includes the sacramental use of entheogenic substances. A large focus is put on allowing the mystical experiences to inform belief of adherents rather than to impose any particular interpretation of them.
+
+The project has a few goals:
+* be carefully constructed to withstand legal challenge
+* provide a framework for meaningful spirituality through mystical, entheogenic experience
+* construct a [chrestomathy](http://www.csp.org/chrestomathy/a_preface.html#definition)
+* outline rituals or ceremonies that adherents may participate in to facilitate and provide context to the use of psychedelic sacraments.
+
+The Church documents and charter will be *open source*. It expected to be a careful and gradual process of collaboration with many experts before any actual incorporation is to take place.
+
 ### Psilocene Collective
 
 The [Psilocene Collective](collective) is a broad coalition of skilled individuals that volunteer to work together on projects focused on harm reduction, proliferation of fact-based information, and other needs in the community. Technology enables individuals to work together in a way that was never before possible. Like-minded individuals will volunteer time or resources to collaborate on projects that are important to the psychedelic community. The Collective is a way we can come together.
