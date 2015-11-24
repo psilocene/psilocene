@@ -74,6 +74,9 @@ A mechanism for sharing anonymized drug usage logs is planned. Users can submit 
 * Conclusion - remarks
 
 ## Safety features
+### Real-time chat
+Users would automatically be connected with a volunteer that could help the user or talk about what they are trying to accomplish, or just wish them a good day. The user could opt to share the log entry contents in real time with the chat user and could get help. The volunteer could caution against dangerous use and be an ally.
+
 ### Inline substance information
 Users will be provided with relevant safety guidelines and information as the substance is entered that can help influence them to remain within known safety profiles.
 
