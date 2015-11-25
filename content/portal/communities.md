@@ -7,7 +7,7 @@ title = "Communities"
 
 +++
 ### Adding to this list
-If you know of a community that would belong on this page, please feel free to comment below or [email us](mailto:psilocene@tuta.io)
+If you know of a community that would belong on this page, please feel free to comment below or [email us](mailto:staff@psilocene.org)
 
 Be sure to include the name of the community, a brief description, and a link.
 
@@ -21,7 +21,7 @@ The links listed here are recognized as being of interest to the community. The 
 
 We are interested in collaborating with these organizations/communities or individuals that belong to them. If you know of an organization that would be interested in working together with us, please reach out and we will add it to this list.
 
-[email](mailto:psilocene@tuta.io)
+[email](mailto:staff@psilocene.org)
 
 ## Online communities
 * [Find the Others](https://genesisgeneration.net/)
