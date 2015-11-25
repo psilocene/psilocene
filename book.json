@@ -1,7 +1,8 @@
 {
     "plugins": [
         "discourse",
-        "ga"
+        "ga",
+        "github-buttons"
     ],
     "pluginsConfig": {}
 }
