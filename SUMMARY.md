@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Collective](test/collective.md)
-* Draft
+* [Draft](draft.md)
 
