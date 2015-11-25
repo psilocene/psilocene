@@ -26,6 +26,8 @@ The podcasts listed here are recognized as being of interest to the community. T
 * [Timewheel Podcast](http://timewheel.net/PODCAST)
 * [Expanding Mind](http://expandingmind.podbean.com/)
 * [The Human Experience Podcast](http://www.thehumanxp.com/)
+* [C-Realm](http://c-realm.com)
+* [In a Perfect World](http://in-a-perfect-world.podomatic.com/)
 
 ## Podcasts with significant psychedelic content
 * [Duncan Trussell Family Hour](http://duncantrussell.com/)

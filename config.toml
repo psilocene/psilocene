@@ -9,6 +9,7 @@ Description = "a new epoch in which humanity returns to harmony with itself and 
 Analytics = "UA-70341821-1"
 [params.links]
 foundation = "/foundation"
+forum = "http://forum.psilocene.org"
 druglog = "/collective/druglog"
 collective = "/collective"
 [params.resources]
