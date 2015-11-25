@@ -4,5 +4,15 @@
         "ga",
         "github-buttons"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "discourse": {
+            "url": "http://forum.discourse.org/",
+            "api_key": "d82e6a650fd6c71bc2a660aeaeddfd8578d3a90d41df0c9bccb2003bbf683736",
+            "api_username": "system",
+            "parent_category_id": "psilocene"
+        },
+        "ga": {
+            "token": "UA-70341821-2"
+        }
+    }
 }
