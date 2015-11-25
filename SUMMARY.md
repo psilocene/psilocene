@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Collective](test/collective.md)
+* [Collective](content/collective.md)
+    *  [DrugLog](content/collective/druglog.md)
 * [Draft](draft.md)
 
