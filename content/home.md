@@ -43,6 +43,7 @@ Do you have an idea?
 The Psilocene Church is an ambitious endeavor to create the framework for a religion that allows for meaningful religious practice that includes the sacramental use of entheogenic substances. A large focus is put on allowing the mystical experiences to inform belief of adherents rather than to impose any particular interpretation of them.
 
 The project has a few goals:
+
 * be carefully constructed to withstand legal challenge
 * provide a framework for meaningful spirituality through mystical, entheogenic experience
 * construct a [chrestomathy](http://www.csp.org/chrestomathy/a_preface.html#definition)
