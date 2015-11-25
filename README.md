@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/psilocene/psilocene.png?label=ready&title=Ready)](https://waffle.io/psilocene/psilocene)
 # Information for GitHub users
 
 To get started
