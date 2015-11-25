@@ -1,4 +1,5 @@
 # Summary
 
-* Collective
+* [Introduction](README.md)
+* [Collective](test/collective.md)
 
