@@ -11,7 +11,7 @@ Analytics = "UA-70341821-1"
 foundation = "/foundation"
 druglog = "/collective/druglog"
 collective = "/collective"
-[params.links.external]
+[params.external]
 forum = "http://forum.psilocene.org"
 [params.resources]
 links = "/portal/links"
