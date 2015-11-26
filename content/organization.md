@@ -28,7 +28,10 @@ A rough draft of potential child organizations
     * Lawyers and legal staff that advise, defend, and prepare the Psilocene foundation and psychedelic interests.
 * Psilocene Voice
     * A publication, website, and/or podcast that invites community voices to be heard.
-* Psilocene Portal
+* Psilocene Registry
     * A collection of links to psychedelic resources on the internet.
-* Psilocene Picks
+* Psilocene Library
+    * A collection of documents or books that are important for psychedelic research or reading.
+* Psilocene Legacy
     * Knowledgeable or influential members of the psychedelic community are invited to provide a list of resources that helped them reach their current understanding, position, and path. This can include books, talks, conferences, or any other resource that they would like to share with those looking to expand their understanding. There would also be a section included that showcases that person's contributions to the community.
+    * If an influential person has died, their page will be made for them.
