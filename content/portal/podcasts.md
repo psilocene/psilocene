@@ -7,7 +7,7 @@ title = "Podcasts"
 
 +++
 ## Adding to this list
-If you know of a podcast that would belong on this page, please feel free to comment below or [email us](mailto:psilocene@tuta.io)
+If you know of a podcast that would belong on this page, please feel free to comment below or [email us](mailto:staff@psilocene.org)
 
 Be sure to include the name of the podcast, a brief description, and a link to the podcast.
 
