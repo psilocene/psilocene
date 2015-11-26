@@ -5,6 +5,7 @@
 * [Collective](content/collective.md)
    * [DrugLog](content/collective/druglog.md)
 * [Library](content/library.md)
+* [Registry](content/library/registry.md)
    * [Blogs](content/portal/blogs.md)
    * [Books](content/portal/books.md)
    * [Communities](content/portal/communities.md)
