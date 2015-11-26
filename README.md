@@ -37,7 +37,7 @@ The [Psilocene Foundation](foundation) is the parent entity that is being propos
 
 Do you have an idea?
 
-* Please get in contact with us: [psilocene@tuta.io](mailto:staff@psilocene.org)
+* Please get in contact with us: [staff@psilocene.org](mailto:staff@psilocene.org)
 * Fork this [repository](http://github.com/psilocene/psilocene) and write up your idea/proposal. Let's work together.
 
 ### Psilocene Church
