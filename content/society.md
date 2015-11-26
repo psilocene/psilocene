@@ -3,8 +3,8 @@ Categories = []
 Description = ""
 Tags = []
 date = "2015-11-18T17:29:30-07:00"
-title = "about society"
-
+title = "Society"
+draft = true
 +++
 
 ## Psilocene Society

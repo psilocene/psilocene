@@ -1,13 +1,9 @@
 +++
 date = "2015-11-16T19:16:25-07:00"
 title = "quickplan"
-draft = false
+draft = true
 
 +++
-
-So, I need to think really quickly of what to do with psilocene.
-
-I originally thought of psilocene being a society of people that were brought together by the knowledge and insights that come from psychedelic experience. I'm not really quite sure what that would entail even now, but I think that there are opportunities for it to expand. I think I have arrived at a few different arms of what the overall organization could be.
 
 1. Psilocene Foundation
     1. Psilocene Society
