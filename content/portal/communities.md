@@ -6,22 +6,7 @@ date = "2015-11-19T12:16:27-07:00"
 title = "Communities"
 
 +++
-### Adding to this list
-If you know of a community that would belong on this page, please feel free to comment below or [email us](mailto:staff@psilocene.org)
 
-Be sure to include the name of the community, a brief description, and a link.
-
-### Disclaimer
-The links listed here are recognized as being of interest to the community. The listing of a website, organization, or community does not signify our endorsement of it or its claims.
-
-#### Use your judgement and do your own research. Fact check and follow sources.
-
-
-### Collaborating
-
-We are interested in collaborating with these organizations/communities or individuals that belong to them. If you know of an organization that would be interested in working together with us, please reach out and we will add it to this list.
-
-[email](mailto:staff@psilocene.org)
 
 ## Online communities
 * [Find the Others](https://genesisgeneration.net/)
