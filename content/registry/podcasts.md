@@ -31,8 +31,5 @@ title = "Podcasts"
 * [Mindpod Network](http://www.mindpodnetwork.com/our-podcasts/)
 * [Mindrolling](http://www.mindpodnetwork.com/mindrolling/)
 
-
-
-
 ## Motivation and Productivity
 * [The Productivity Show](http://www.asianefficiency.com/podcast/)
