@@ -1,23 +1,17 @@
-[![Stories in Ready](https://badge.waffle.io/psilocene/psilocene.png?label=ready&title=Ready)](https://waffle.io/psilocene/psilocene)
-# Information for GitHub users
-
-To get started
-* Clone this repo
-* Clone the [psilocene theme](http://github.com/psilocene/cene) to the repo's themes/ folder
-* Install and familiarize yourself with [Hugo](http://gohugo.io/overview/quickstart/)
-  * After you install, you can skip part 2, and go directly to creating content.
-
-Let's talk about your ideas and work on them together. [Create an issue](https://github.com/psilocene/psilocene/issues) and then make a pull request.
++++
+Categories = []
+Description = ""
+Tags = []
+date = "2015-11-18T23:29:05-07:00"
+title = "Home"
+draft = true
++++
 
 # Welcome to Psilocene
 
-psilo- : word-forming element meaning "stripped, bare," from Greek psilos "bare, naked; mere,"
-
--cene: denoting a recent geological period; from Greek kainos new
-
 ### psilocene --  a new epoch in which humanity returns to harmony with itself and nature
 
-A renaissance is taking place on the global stage. Psychedelics are once again being recognized as important tools to return humanity to its lost relationship with nature. People are having mystical experiences and are waking up to the truth, but they often wonder what they can do to make a difference.
+A new renaissance is taking place on the global stage. Psychedelics are once again being recognized as important tools to return humanity to its lost relationship with nature. Many people are having mystical experiences and are waking up to the truth, but they often wonder what they can do to make a difference.
 
 Psilocene is a group of people that have woken up to reality. We want to know each other. We want to work together. For real change, we must work together.
 
@@ -37,7 +31,7 @@ The [Psilocene Foundation](foundation) is the parent entity that is being propos
 
 Do you have an idea?
 
-* Please get in contact with us: [staff@psilocene.org](mailto:staff@psilocene.org)
+* Please get in contact with us: [psilocene@tuta.io](mailto:staff@psilocene.org)
 * Fork this [repository](http://github.com/psilocene/psilocene) and write up your idea/proposal. Let's work together.
 
 ### Psilocene Church
@@ -45,6 +39,7 @@ Do you have an idea?
 The Psilocene Church is an ambitious endeavor to create the framework for a religion that allows for meaningful religious practice that includes the sacramental use of entheogenic substances. A large focus is put on allowing the mystical experiences to inform belief of adherents rather than to impose any particular interpretation of them.
 
 The project has a few goals:
+
 * be carefully constructed to withstand legal challenge
 * provide a framework for meaningful spirituality through mystical, entheogenic experience
 * construct a [chrestomathy](http://www.csp.org/chrestomathy/a_preface.html#definition)
