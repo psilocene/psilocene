@@ -1,11 +1,16 @@
 {
     "plugins": [
         "ga",
-        "strip-frontmatter"
+        "strip-frontmatter",
+        "edit-link"
     ],
     "pluginsConfig": {
         "ga": {
             "token": "UA-70341821-2"
-        }
+        },
+        "edit-link": {
+                "base": "https://github.com/psilocene/psilocene/edit/staging/",
+                "label": "Edit This Page"
+            }
     }
 }
