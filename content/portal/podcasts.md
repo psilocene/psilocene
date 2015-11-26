@@ -6,15 +6,7 @@ date = "2015-11-19T10:58:16-07:00"
 title = "Podcasts"
 
 +++
-## Adding to this list
-If you know of a podcast that would belong on this page, please feel free to comment below or [email us](mailto:staff@psilocene.org)
 
-Be sure to include the name of the podcast, a brief description, and a link to the podcast.
-
-## Disclaimer
-The podcasts listed here are recognized as being of interest to the community. The listing of a podcast here does not signify an endorsement of its content.
-
-#### Use your judgement and do your own research. Fact check and follow sources.
 
 ## Psychedelic Podcasts
 * [Psychedelic Salon](http://psychedelicsalon.com)
