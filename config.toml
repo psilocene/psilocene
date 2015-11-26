@@ -5,6 +5,8 @@ theme = "cene"
 
 pluralizeListTitles = false
 [params]
+Author = "Psilocene Foundation"
+MetaDescription = "A community for collaborative psychedelic action"
 Description = "a new epoch in which humanity returns to harmony with itself and nature"
 Analytics = "UA-70341821-1"
 discourseUrl = "http://forum.psilocene.org/"
