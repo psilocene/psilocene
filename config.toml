@@ -14,5 +14,6 @@ discourseUrl = "http://forum.psilocene.org/"
 druglog = "/collective/druglog"
 collective = "/collective"
 [params.external]
+forum = "http://forum.psilocene.org"
 [params.registry]
 podcasts = "/registry/podcasts"
