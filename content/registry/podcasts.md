@@ -22,6 +22,7 @@ title = "Podcasts"
 * [In a Perfect World](http://in-a-perfect-world.podomatic.com/)
 * [Natural Born Alchemist](http://www.naturalbornalchemist.com/)
 * [Psychedelic Parenting](http://www.psychedelicparenting.org/?cat=9)
+* [Adventures Through The Mind](http://www.jameswjesso.com/category/media-2/attmind-radio/)
 
 ## Podcasts with significant psychedelic content
 * [Duncan Trussell Family Hour](http://duncantrussell.com/)
