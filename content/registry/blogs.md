@@ -13,6 +13,7 @@ title = "Blogs"
 * [Disregard This Content](http://www.disregardthiscontent.tumblr.com/)
 * [Psychedelic Frontier](http://psychedelicfrontier.com/)
 * [Psychedelic Parenting](http://www.psychedelicparenting.org/)
+* [Adventures Through The Mind - James W. Jesso](http://www.jameswjesso.com/)
 
 ## Zines
 * [Reality Sandwich]
