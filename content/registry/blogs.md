@@ -12,6 +12,7 @@ title = "Blogs"
 * [Disregard Everything I Say](http://disregardeverythingisay.com/)
 * [Disregard This Content](http://www.disregardthiscontent.tumblr.com/)
 * [Psychedelic Frontier](http://psychedelicfrontier.com/)
+* [Psychedelic Parenting](http://www.psychedelicparenting.org/)
 
 ## Zines
 * [Reality Sandwich]

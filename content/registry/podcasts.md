@@ -20,6 +20,8 @@ title = "Podcasts"
 * [The Human Experience Podcast](http://www.thehumanxp.com/)
 * [C-Realm](http://c-realm.com)
 * [In a Perfect World](http://in-a-perfect-world.podomatic.com/)
+* [Natural Born Alchemist](http://www.naturalbornalchemist.com/)
+* [Psychedelic Parenting](http://www.psychedelicparenting.org/?cat=9)
 
 ## Podcasts with significant psychedelic content
 * [Duncan Trussell Family Hour](http://duncantrussell.com/)
