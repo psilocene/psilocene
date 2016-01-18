@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://psilocene.org/</loc>
+    <lastmod>2015-11-19T13:56:25-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/registry/events/</loc>
+    <lastmod>2015-11-19T13:56:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/registry/information/</loc>
+    <lastmod>2015-11-19T12:19:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/registry/communities/</loc>
+    <lastmod>2015-11-19T12:16:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/registry/blogs/</loc>
+    <lastmod>2015-11-19T10:59:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/registry/podcasts/</loc>
+    <lastmod>2015-11-19T10:58:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/home/</loc>
+    <lastmod>2015-11-18T23:29:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/registry/organizations/</loc>
+    <lastmod>2015-11-18T20:34:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/organization/</loc>
+    <lastmod>2015-11-18T20:28:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/collective/druglog/</loc>
+    <lastmod>2015-11-18T17:45:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/church/</loc>
+    <lastmod>2015-11-18T17:29:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/collective/</loc>
+    <lastmod>2015-11-18T17:29:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/foundation/</loc>
+    <lastmod>2015-11-18T14:36:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://psilocene.org/registry/</loc>
+  </url>
+  
+</urlset>
